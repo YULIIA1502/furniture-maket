@@ -1,0 +1,14 @@
+:root{
+    --acsent-color: #CDA861;
+    --blac-color: #000000;
+    --grey-color: #34383D;
+    --white-color: #FFFFFF;
+}
+ul, ol{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
